@@ -1,0 +1,29 @@
+Space Empire er et GalCiv/Civ/Spore-inspirert spill i verdensrommet. Brettet er en "galakse" med stjerner (potensielt andre himmellegemer). Hver stjerne kan ha planeter, asteroidebelter og lignende rundt seg. Enkelte av planetene er mulig å kolonisere, og man bygger romskip for å utforske og befolke galaksen. På planetene kan man bygge forskjellige bygninger (3x3 med kolonien i midten).
+
+I tillegg er det research som gjør at man får tilgang til bedre bygninger, bedre enheter osv. Romskipene kan man selv designe, slik man kan i GalCiv (nei, ikke like avansert). Man vinner ved å ta ut alle motstandere (fredelig eller ikke). Potensielt kan brettet være større enn default for de andre spillene, slik at man kan plassere planetene i selve spillebrettet?
+
+Spillideer:
+
+    Solsystem-view med stjerne og planeter, satt opp med gravitasjon etc
+    Romskip som kan bevege seg i denne view'en, gå i bane rundt planetene etc
+    I utgangspunktet kun enkel styring med thrusters, etter hvert mulig å oppgradere til auto-pilotfunksjon.
+    Miljø i solsystemet som støv, asteroider, temperatur etc som påvirker romskipet
+    Starter i bane rundt hjemplaneten
+    Etter hvert mulig å bygge ut mining andre steder, kjøpe skip som kjører missions etc
+    Eget romskip blir etter hvert kun for å sette opp infrastruktur
+    Målet blir etter hvert å komme seg ut fra solsystemet og utforske galaksen 
+
+Nivå:
+
+    Basic utforskning av månen og nære planeter
+    Sette opp base på andre planeter og måner
+    Utforske resten av solsystemet og sette opp ressursinnhenting og baser
+    Kraftstasjon/ladestasjon nær sola
+    Mer avansert romskip for autopilot
+    Warp til andre galakser 
+
+Utfordringer:
+
+    AI for motstanderen
+    Teknologi-tre
+    Starship-builder 
